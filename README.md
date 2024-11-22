@@ -10,3 +10,5 @@
 - [x] Evaluated the RAG pipeline using different evaluation metrics.
   
 Check out the presentation slides: https://docs.google.com/presentation/d/15TxRKM6tYFHo6K3a1qpf7d4ZToQP7GMl/edit?usp=sharing&ouid=107107154903404481112&rtpof=true&sd=true
+
+# I have previously done this project but uploaded it now.
